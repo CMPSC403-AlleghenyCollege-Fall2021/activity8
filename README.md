@@ -6,7 +6,7 @@ For the eighth activity you are invited to participated in a guided completion o
 
 ## Assignment
 
--  Complete [Activity 8]() directly on TryHackMe.
+-  Complete [Activity 8](https://tryhackme.com/jr/alleghenybof1ht) directly on TryHackMe.
 
 ## Submission
 
